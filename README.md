@@ -1,6 +1,6 @@
 # 👋
 
-<p align="left">Hello World!!<br><br>🎓 Estudante de Ciência da Computação com foco em desenvolvimento web e mobile.<br>💡 Apaixonado por tecnologia, com forte interesse em aprender, experimentar novas ferramentas e contribuir em projetos reais.<br>🚀 Busco constantemente evolução técnica e pessoal, com o objetivo de aplicar meus conhecimentos de forma prática e impactar positivamente no ambiente profissional.</p>
+<p align="left">Hello World!!<br><br>🎓 Estudante de Ciência da Computação com foco em desenvolvimento web e mobile.<br>💡 Apaixonado por tecnologia, com forte interesse em aprender, experimentar novas ferramentas e contribuir em projetos.<br>🚀 Busco constantemente evolução técnica e pessoal, com o objetivo de aplicar meus conhecimentos de forma prática e impactar positivamente no ambiente profissional.</p>
 
 ###
 
